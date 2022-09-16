@@ -7,7 +7,6 @@
 - **Request**: an attempt by one machine to contact another over the internet.
 - **Client**: an application or machine that accesses services being provided by a server through the internet.
 - **Web Server**: a combination of software and hardware that uses Hypertext Transfer Protocol (HTTP) and other protocols to respond to requests made over the internet.
-- **More vocab to come**
 
 ***
 
@@ -20,3 +19,13 @@ APIs give us selective access to which parts of the that codebase the developers
 With the ability to leverage remote data in our applications, we can increase the functionality of our applications or even save time!
 
 ***
+
+## Resources
+
+- [GET - Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET)
+
+- [HTTP methods - Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+
+- [requests](https://requests.readthedocs.io/en/latest/)
+
+- [Python JSON](https://docs.python.org/3/library/json.html)
