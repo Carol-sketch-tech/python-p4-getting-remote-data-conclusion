@@ -1,0 +1,13 @@
+Getting Remote Data conclusion 
+one can build calsses and objects that perform various fucniton in an applicaiton .
+however sometimes one might need to incoorporate remote data in our applcation,
+we have demondtares that many applcaitons give us access to remote data via applcaitons
+
+APIs give us selective access to the part of a codebase developwes want to expose.
+this can make the code base easier to work with.
+
+the follwowing is what i should know 
+    1. how APIs work 
+    2. how to fnd the endpoit and how to sent requests for data to an 
+    API.
+with the ability to leverage remote data in our aplications we can increase the functionality of our application and even save time.
